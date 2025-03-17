@@ -1,4 +1,4 @@
-Aula do curso https://cursos.alura.com.br/course/typescript-orientado-objetos
+Curso disponível em https://cursos.alura.com.br/course/typescript-orientado-objetos
 
 ![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
 
